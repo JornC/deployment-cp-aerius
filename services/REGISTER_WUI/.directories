@@ -1,0 +1,5 @@
+./aerius-taskmanager-client
+./aerius-wui-client
+./aerius-wui-register-client
+./aerius-wui-server      
+./aerius-wui-register-server

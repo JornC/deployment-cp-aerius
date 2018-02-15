@@ -1,0 +1,6 @@
+./aerius-taskmanager-client
+./aerius-wui-client
+./aerius-wui-scenario-base-client
+./aerius-wui-calculator-client
+./aerius-wui-server
+./aerius-wui-calculator-server
